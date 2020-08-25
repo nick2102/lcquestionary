@@ -1,0 +1,1409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trainee Base\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-02 15:16+0000\n"
+"PO-Revision-Date: 2020-07-02 21:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: views/admin/questionnaire-panel.php:17
+msgid "+ Add Section"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:129
+msgid "Activate your account"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:129
+msgid "Activation link"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:106 views/admin/control-panel.php:52
+msgid "Add Cause/Solution"
+msgstr ""
+
+#: views/admin/control-panel.php:51
+msgid "Add Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:228
+#: include/cpt/class-lctrainee-cpt.php:229
+msgid "Add New Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:107
+msgid "Add New Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:52
+#: include/cpt/class-lctrainee-cpt.php:53
+msgid "Add New Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:71
+msgid "Add New Item"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:175
+#: include/cpt/class-lctrainee-cpt.php:176
+msgid "Add New Questionnaire"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:60
+#: views/admin/questionnaire-tabs/q-questions.php:36
+msgid "Add Option"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:76
+msgid "Add or remove items"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:58
+#: views/admin/questionnaire-tabs/q-questions.php:6
+msgid "Add Question"
+msgstr ""
+
+#: views/admin/control-panel.php:53
+msgid "Add User"
+msgstr ""
+
+#: include/class-lctrainee.php:269
+msgid "Add widgets here."
+msgstr ""
+
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:142
+#: views/shortcodes/energy-profile/basic-profile.php:35
+#: views/shortcodes/energy-profile/basic-profile.php:111
+#: views/shortcodes/energy-profile/certified-profile.php:13
+#: views/shortcodes/energy-profile/certified-profile.php:75
+#: views/shortcodes/questionnaire/partials/maps.php:41
+msgid "Address"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:227
+msgid "All Buildings"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:105
+msgid "All Causes/Solutions"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:51
+msgid "All Companies"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:44
+msgid "All fields are required!"
+msgstr ""
+
+#: include/admin/class-lctrainee-admin-scripts.php:78
+#: include/utils/class-lctrainee-string-resources.php:52
+msgid "All fields are required."
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:67
+msgid "All Items"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:174
+msgid "All Questionnaires"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:53
+msgid "All questions are required."
+msgstr ""
+
+#: include/models/class-lctrainee-mapper.php:111
+#: views/shortcodes/questionnaire/partials/maps.php:9
+msgid "Apartment"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:82
+#: views/shortcodes/energy-profile/certified-profile.php:42
+#: views/shortcodes/energy-profile/finish-questionnaire.php:9
+msgid "Back to questionnaire"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:223
+#: include/cpt/class-lctrainee-cpt.php:249
+msgid "Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:291
+msgid "Building Address"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:224
+msgid "Building Archives"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-building-metaboxes.php:62
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:141
+msgid "Building Info"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-building-metaboxes.php:63
+msgid "Building Map"
+msgstr ""
+
+#: views/shortcodes/energy-profile/certified-profile.php:17
+#: views/shortcodes/energy-profile/certified-profile.php:79
+msgid "Building needed heating energy"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:226
+msgid "Building Parent Item:"
+msgstr ""
+
+#: views/shortcodes/energy-profile/certified-profile.php:16
+#: views/shortcodes/energy-profile/certified-profile.php:78
+msgid "Building primary energy"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:222
+#: include/cpt/class-lctrainee-cpt.php:250
+msgid "Buildings"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:225
+msgid "Buildings Attributes"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:244
+msgid "Buildings list"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:245
+msgid "Buildings list navigation"
+msgstr ""
+
+#: include/admin/class-lctrainee-admin-scripts.php:79
+#: include/utils/class-lctrainee-string-resources.php:77
+msgid "Can not reach the remote server"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:47
+msgid "Categories"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:47
+msgid "Category"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:101
+#: include/cpt/class-lctrainee-cpt.php:127
+msgid "Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:102
+msgid "Cause/Solution Archives"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:103
+msgid "Cause/Solution Attributes"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:123
+msgid "Cause/Solution list navigation"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:104
+msgid "Cause/Solution Parent Item:"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:128
+msgid "Cause/Solution posts"
+msgstr ""
+
+#: include/class-lctrainee.php:267
+msgid "Cause/Solutions Sidebar"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:100
+msgid "Causes/Solutions"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:122
+msgid "Causes/Solutions list"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-building-metaboxes.php:52
+#: views/shortcodes/energy-profile/certified-profile.php:18
+msgid "Certificate"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:40
+#: views/shortcodes/energy-profile/certified-profile.php:15
+#: views/shortcodes/energy-profile/certified-profile.php:77
+msgid "Certification Mark"
+msgstr ""
+
+#: views/shortcodes/energy-profile/certified-profile.php:71
+msgid "Certified Building"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:46
+msgid "Change street"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:77
+msgid "Choose from the most used"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:57
+msgid "Cities"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:57
+#: views/shortcodes/energy-profile/basic-profile.php:36
+#: views/shortcodes/energy-profile/basic-profile.php:112
+#: views/shortcodes/energy-profile/certified-profile.php:14
+#: views/shortcodes/energy-profile/certified-profile.php:76
+#: views/shortcodes/questionnaire/partials/maps.php:16
+msgid "City"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:46
+msgid "Companies"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:48
+msgid "Companies Archives"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:49
+msgid "Companies Attributes"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:68
+msgid "Companies list"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:69
+msgid "Companies list navigation"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:50
+msgid "Companies Parent Item:"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:47
+#: include/cpt/class-lctrainee-cpt.php:73
+msgid "Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:47
+msgid "Company Category"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:66
+msgid "Company Contact"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:64
+msgid "Company Logo"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:281
+msgid "Company Name"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:74
+msgid "Company Posts"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:65
+msgid "Company Short Description"
+msgstr ""
+
+#. page_title
+#: include/utils/class-lctrainee-dashboard-page.php:32
+#: include/utils/class-lctrainee-dashboard-page.php:33
+#: views/admin/control-panel.php:2
+msgid "Control Panel"
+msgstr ""
+
+#: views/admin/questionnaire-panel.php:23
+msgid "Copy Shortcode"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:74
+msgid "Delete tab"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:75
+msgid "Delete this tab"
+msgstr ""
+
+#: include/widgets/classes/class-lctrainee_solutions_sidebar.php:20
+msgid "Displaying cause/solution menu"
+msgstr ""
+
+#: views/shortcodes/auth/login.php:21
+msgid "Don't have account?"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:59
+msgid ""
+"Don't include garages, balconies, or patio areas unless they are finished "
+"and heated."
+msgstr ""
+
+#: views/admin/control-panel.php:28
+msgid "Edit"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:231
+msgid "Edit Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:109
+msgid "Edit Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:55
+msgid "Edit Company"
+msgstr ""
+
+#: views/admin/control-panel.php:54
+msgid "Edit energy questionnaire"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:72
+msgid "Edit Item"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:178
+msgid "Edit Questionnaire"
+msgstr ""
+
+#. page_title
+#: include/utils/class-lctrainee-dashboard-page.php:44
+msgid "EE indicator"
+msgstr ""
+
+#: api/class-lctrainee-admin-api.php:53
+msgid "EE Indicator successfully saved!"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:240
+msgid "Efficiency in percentage"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:59
+#: views/shortcodes/auth/login.php:4 views/shortcodes/auth/register.php:27
+#: views/shortcodes/auth/password-recovery.php:7
+msgid "Email"
+msgstr ""
+
+#: include/utils/class-lctrainee-dashboard-page.php:43
+#: views/admin/ee-indicator.php:2
+msgid "Energy efficiency indicator"
+msgstr ""
+
+#: views/admin/ee-indicator.php:6
+msgid "Energy efficiency indicator points"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:121
+msgid "Energy Efficiency per section"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:204
+msgid "Energy efficiency per section"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:88
+#: views/shortcodes/energy-profile/certified-profile.php:49
+msgid "Energy Efficiency Profile"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:78
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:143
+msgid "Energy Mark"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-building-metaboxes.php:49
+#: views/shortcodes/energy-profile/basic-profile.php:13
+#: views/shortcodes/energy-profile/basic-profile.php:94
+#: views/shortcodes/energy-profile/certified-profile.php:25
+#: views/shortcodes/energy-profile/certified-profile.php:55
+msgid "Energy mark"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:12
+#: views/shortcodes/energy-profile/basic-profile.php:93
+#: views/shortcodes/energy-profile/certified-profile.php:24
+#: views/shortcodes/energy-profile/certified-profile.php:54
+msgid "Energy points"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:43
+msgid "Enter Address"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:286
+msgid "Enter Cause"
+msgstr ""
+
+#: views/shortcodes/auth/password-recovery.php:8
+msgid "Enter Email"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:22 views/admin/map-settings.php:24
+msgid "Enter occupants range with the points, comma separated"
+msgstr ""
+
+#: views/shortcodes/auth/register.php:35
+msgid "Enter Password"
+msgstr ""
+
+#: views/shortcodes/auth/login.php:9
+msgid "Enter password"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:52
+msgid "Enter short description about the company"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:57
+msgid "Enter size in square meters"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:14 views/admin/map-settings.php:16
+msgid "Enter square meter range with the points, comma separated"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:42
+msgid ""
+"Enter the minimum number of points, bellow which solutions should appear "
+"after user finishes with the questionnaire"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:51
+msgid "Enter year of construction"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:6 views/admin/map-settings.php:8
+msgid "Enter years range with the points, comma separated"
+msgstr ""
+
+#: include/admin/class-lctrainee-admin-scripts.php:77
+#: include/utils/class-lctrainee-string-resources.php:48
+msgid "Error"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:168
+msgid "Error sending reset password email."
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:7 views/admin/map-settings.php:9
+msgid ""
+"Ex: 1990:1998#10 this means if user enters between 1990 and 1998 he will get "
+"10 points for this question"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:23 views/admin/map-settings.php:25
+msgid ""
+"Ex: 1:3#10 this means if user enters between 1 and 3 he will get 10 points "
+"for this question"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:15 views/admin/map-settings.php:17
+msgid ""
+"Ex: 30:45#10 this means if user enters between 30 and 45 he will get 10 "
+"points for this question"
+msgstr ""
+
+#: include/install/class-lctrainee-install.php:29
+msgid "Expert"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:74
+#: include/cpt/meta-boxes/class-lctrainee-questionnaire-metaboxes.php:100
+msgid "Export content"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:76
+msgid "Export/Import field can not be empty!"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:57
+msgid "Fax"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:62
+#: include/cpt/class-lctrainee-cpt.php:116
+#: include/cpt/class-lctrainee-cpt.php:185
+#: include/cpt/class-lctrainee-cpt.php:238
+msgid "Featured Image"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:246
+msgid "Filter Building list"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:124
+msgid "Filter Cause/Solution list"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:70
+msgid "Filter Company list"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:193
+msgid "Filter Questionnaire list"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:4
+#: views/shortcodes/energy-profile/certified-profile.php:4
+msgid "Find out more ways to save"
+msgstr ""
+
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:127
+msgid "Finish"
+msgstr ""
+
+#: views/shortcodes/auth/login.php:18
+msgid "Forgot your password?"
+msgstr ""
+
+#: views/admin/ee-indicator.php:12 views/admin/ee-indicator.php:22
+#: views/admin/ee-indicator.php:32 views/admin/ee-indicator.php:42
+#: views/admin/ee-indicator.php:52 views/admin/ee-indicator.php:62
+msgid "From"
+msgstr ""
+
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:10
+msgid "Home Info"
+msgstr ""
+
+#: include/models/class-lctrainee-mapper.php:110
+#: views/shortcodes/questionnaire/partials/maps.php:8
+msgid "House"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:64
+msgid "How many people do you live with in your home?"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://labscreative.com"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:4
+msgid "I live in"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:64
+#: views/admin/questionnaire-tabs/q-questions.php:67
+msgid "Icon"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:75
+#: include/cpt/meta-boxes/class-lctrainee-questionnaire-metaboxes.php:101
+msgid "Import content"
+msgstr ""
+
+#: include/cpt/class-lctrainee-metafield-generator.php:221
+msgid "Insert image"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:66
+#: include/cpt/class-lctrainee-cpt.php:120
+#: include/cpt/class-lctrainee-cpt.php:189
+#: include/cpt/class-lctrainee-cpt.php:242
+msgid "Insert into item"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:49
+#: api/profile/class-lctrainee-auth.php:62
+msgid "Invalid login details"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:62
+msgid "Invalid login details."
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:189
+msgid ""
+"Invalid reset password link. Reload the link from your reset password email"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:79
+#: include/cpt/meta-boxes/class-lctrainee-building-metaboxes.php:48
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:144
+msgid "Investor"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:82
+msgid "Items list"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:83
+msgid "Items list navigation"
+msgstr ""
+
+#: views/shortcodes/auth/register.php:16
+msgid "Last Name"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:7
+#: views/shortcodes/energy-profile/certified-profile.php:7
+msgid "Learn More"
+msgstr ""
+
+#: views/admin/ee-indicator.php:11
+msgid "Level 1 points"
+msgstr ""
+
+#: views/admin/ee-indicator.php:21
+msgid "Level 2 points"
+msgstr ""
+
+#: views/admin/ee-indicator.php:31
+msgid "Level 3 points"
+msgstr ""
+
+#: views/admin/ee-indicator.php:41
+msgid "Level 4 points"
+msgstr ""
+
+#: views/admin/ee-indicator.php:51
+msgid "Level 5 points"
+msgstr ""
+
+#: views/admin/ee-indicator.php:61
+msgid "Level 6 points"
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:108
+msgid "List of companies"
+msgstr ""
+
+#: views/shortcodes/companies/company-list.php:11
+msgid "Load more"
+msgstr ""
+
+#: include/class-lctrainee.php:213 views/shortcodes/auth/login.php:14
+msgid "Login"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:70
+#: views/admin/questionnaire-tabs/q-questions.php:39
+msgid "Mandatory"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:1 views/admin/map-settings.php:3
+msgid "Map step settings"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:58
+msgid "Mobile"
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:109
+msgid "Modal Shortcode"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:62
+msgid "Multiple choice"
+msgstr ""
+
+#: views/shortcodes/auth/register.php:9
+msgid "Name"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-building-metaboxes.php:50
+msgid "Needed heating energy"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:230
+msgid "New Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:108
+msgid "New Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:54
+msgid "New Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:70
+msgid "New Item Name"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:177
+msgid "New Questionnaire"
+msgstr ""
+
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:42
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:118
+#: views/shortcodes/questionnaire/partials/maps.php:78
+#: views/shortcodes/questionnaire/partials/maps.php:89
+msgid "Next step"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nikola Nikoloski"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:69
+#: views/admin/questionnaire-tabs/q-questions.php:42
+msgid "No"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:81
+msgid "No Items"
+msgstr ""
+
+#: views/admin/control-panel.php:35
+msgid "No pending causes."
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:80
+msgid "Not Found"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:60
+#: include/cpt/class-lctrainee-cpt.php:114
+#: include/cpt/class-lctrainee-cpt.php:183
+#: include/cpt/class-lctrainee-cpt.php:236
+msgid "Not found"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:61
+#: include/cpt/class-lctrainee-cpt.php:115
+#: include/cpt/class-lctrainee-cpt.php:184
+#: include/cpt/class-lctrainee-cpt.php:237
+msgid "Not found in Trash"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:39
+#: views/shortcodes/energy-profile/basic-profile.php:115
+#: views/shortcodes/questionnaire/partials/maps.php:63
+msgid "Occupants"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:61
+msgid "Option"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:65
+#: views/admin/questionnaire-tabs/q-questions.php:57
+msgid "Option Name"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:68
+msgid "Parent Item"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:69
+msgid "Parent Item:"
+msgstr ""
+
+#: views/shortcodes/auth/password-reset.php:7 views/shortcodes/auth/login.php:8
+#: views/shortcodes/auth/register.php:34
+msgid "Password"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:200
+#: api/profile/class-lctrainee-auth.php:231
+msgid "Password has been changed!"
+msgstr ""
+
+#: include/class-lctrainee.php:214
+msgid "Password Recovery"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:172
+msgid "Password reset link has been sent to your registered email"
+msgstr ""
+
+#: views/admin/control-panel.php:13
+msgid "Pending Causes/Solutions"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:56
+msgid "Phone"
+msgstr ""
+
+#: views/shortcodes/energy-profile/finish-questionnaire.php:3
+msgid "Please answer the questionnaire to generate your energy profile"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:131
+msgid "Please check your email, and confirm your account"
+msgstr ""
+
+#: api/class-lctrainee-admin-api.php:97
+msgid "Please create questions for this questionnaire first"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:54
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:57
+msgid "Please enter a valid number."
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:56
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:55
+msgid "Please enter only digits."
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:142
+msgid "Please enter your mail."
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:7
+#: views/shortcodes/questionnaire/partials/maps.php:18
+msgid "Please Select"
+msgstr ""
+
+#: views/admin/q-solutions.php:8
+msgid "Please select"
+msgstr ""
+
+#: views/admin/q-solutions.php:6
+msgid "Please select questionnaire"
+msgstr ""
+
+#: views/admin/q-solutions-panel.php:47
+msgid "Please select solutions"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:66
+#: views/admin/questionnaire-tabs/q-questions.php:62
+msgid "Points"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:78
+msgid "Popular Items"
+msgstr ""
+
+#: views/admin/control-panel.php:50
+msgid "Portal"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:50
+msgid "Possible solutions"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:220
+msgctxt "Post Type General Name"
+msgid "Buildings"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:98
+msgctxt "Post Type General Name"
+msgid "Causes/Solutions"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:44
+msgctxt "Post Type General Name"
+msgid "Companies"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:167
+msgctxt "Post Type General Name"
+msgid "Questionnaires"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:221
+msgctxt "Post Type Singular Name"
+msgid "Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:99
+msgctxt "Post Type Singular Name"
+msgid "Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:45
+msgctxt "Post Type Singular Name"
+msgid "Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:168
+msgctxt "Post Type Singular Name"
+msgid "Questionnaire"
+msgstr ""
+
+#: views/admin/control-panel.php:23
+msgid "Posted by"
+msgstr ""
+
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:105
+msgid "Previous step"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-building-metaboxes.php:51
+msgid "Primary energy"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:127
+#: views/shortcodes/energy-profile/certified-profile.php:84
+msgid ""
+"Project TRAINEE - TowaRd market-based skills for sustAINable Energy "
+"Efficient construction"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:59
+#: views/admin/questionnaire-tabs/q-questions.php:30
+msgid "Question"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:170
+#: include/cpt/class-lctrainee-cpt.php:196
+msgid "Questionnaire"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:171
+msgid "Questionnaire Archives"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-questionnaire-metaboxes.php:49
+msgid "Questionnaire content"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-questionnaire-metaboxes.php:58
+msgid "Questionnaire content export/import"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:173
+msgid "Questionnaire Parent Item:"
+msgstr ""
+
+#: views/admin/q-solutions.php:3
+msgid "Questionnaire settings"
+msgstr ""
+
+#. page_title
+#: include/utils/class-lctrainee-dashboard-page.php:53
+#: include/utils/class-lctrainee-dashboard-page.php:54
+#: views/admin/q-solutions-panel.php:29
+msgid "Questionnaire solutions"
+msgstr ""
+
+#: api/class-lctrainee-admin-api.php:43
+#: api/profile/class-lctrainee-profile-actions.php:124
+#: api/profile/class-lctrainee-profile-actions.php:157
+#: api/profile/class-lctrainee-profile-actions.php:160
+msgid "Questionnaire successfully saved!"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:169
+#: include/cpt/class-lctrainee-cpt.php:197
+msgid "Questionnaires"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:172
+msgid "Questionnaires Attributes"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:191
+msgid "Questionnaires list"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:192
+msgid "Questionnaires list navigation"
+msgstr ""
+
+#: views/admin/control-panel.php:47
+msgid "Quick Links"
+msgstr ""
+
+#: views/shortcodes/auth/register.php:42
+msgid "Register"
+msgstr ""
+
+#: views/shortcodes/auth/login.php:21
+msgid "Register here."
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:64
+#: include/cpt/class-lctrainee-cpt.php:118
+#: include/cpt/class-lctrainee-cpt.php:187
+#: include/cpt/class-lctrainee-cpt.php:240
+msgid "Remove featured image"
+msgstr ""
+
+#: views/shortcodes/auth/password-reset.php:15
+msgid "Reset Password"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:161
+msgid "Reset password"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:34
+#: views/shortcodes/energy-profile/basic-profile.php:110
+#: views/shortcodes/energy-profile/certified-profile.php:12
+#: views/shortcodes/energy-profile/certified-profile.php:74
+msgid "Residence Type"
+msgstr ""
+
+#: include/install/class-lctrainee-install.php:30
+msgid "Resident"
+msgstr ""
+
+#: views/admin/questionnaire-panel.php:46 views/admin/ee-indicator.php:73
+#: views/admin/q-solutions-panel.php:64
+msgid "Save"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:81
+#: views/shortcodes/energy-profile/certified-profile.php:41
+msgid "Save to PDF"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:21
+#: views/shortcodes/energy-profile/basic-profile.php:103
+#: views/shortcodes/energy-profile/certified-profile.php:33
+#: views/shortcodes/energy-profile/certified-profile.php:64
+msgid "Saving more money"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:235
+msgid "Search Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:113
+msgid "Search Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:59
+msgid "Search Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:79
+msgid "Search Items"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:182
+msgid "Search Questionnaire"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:52
+msgid "Section"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:52
+msgid "Sections"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:81
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:154
+msgid "Select address"
+msgstr ""
+
+#: include/cpt/class-lctrainee-metafield-generator.php:75
+msgid "Select file"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:67
+#: views/admin/questionnaire-tabs/q-questions.php:71
+msgid "Select Icon"
+msgstr ""
+
+#: include/cpt/class-lctrainee-metafield-generator.php:65
+#: include/utils/class-lctrainee-string-resources.php:82
+#: views/admin/questionnaire-tabs/q-questions.php:15
+#: views/admin/questionnaire-tabs/q-questions.php:18
+msgid "Select Image"
+msgstr ""
+
+#: views/shortcodes/auth/password-recovery.php:15
+msgid "Send reset email"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:75
+msgid "Separate items with commas"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:63
+#: include/cpt/class-lctrainee-cpt.php:117
+#: include/cpt/class-lctrainee-cpt.php:186
+#: include/cpt/class-lctrainee-cpt.php:239
+msgid "Set featured image"
+msgstr ""
+
+#. page_title
+#: include/utils/class-lctrainee-dashboard-page.php:62
+#: include/utils/class-lctrainee-dashboard-page.php:63
+#: views/shortcodes/shortcode-list.php:2
+msgid "Shortcode List"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:38
+#: views/shortcodes/energy-profile/basic-profile.php:114
+#: views/shortcodes/questionnaire/partials/maps.php:56
+msgid "Size in square meter"
+msgstr ""
+
+#: api/class-lctrainee-admin-api.php:121
+msgid "Solutions successfully saved!"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:84
+msgid ""
+"Special characters are not allowed. <br> No white space at the beginning of "
+"the name. <br> Use only letters and numbers. <br> Minimum 2 characters."
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:50
+msgid "Success"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:72
+msgid "Tab already exists!"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:83
+#: views/admin/questionnaire-tabs/q-questions.php:10
+msgid "Tab Name"
+msgstr ""
+
+#: views/admin/questionnaire-panel.php:12
+msgid "Tab name"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:71
+msgid "Tab name can not be empty"
+msgstr ""
+
+#: views/shortcodes/questionnaire/partials/maps.php:66
+msgid "The number of people that normally live in your home."
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:214
+msgid "The old password field is required!"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:185
+#: api/profile/class-lctrainee-auth.php:218
+msgid "The password field is required!"
+msgstr ""
+
+#: views/shortcodes/energy-profile/certified-profile.php:10
+msgid "This building has been certified!"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:51
+msgid "This field is required."
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:63
+#: views/admin/questionnaire-tabs/q-questions.php:33
+msgid "Tip"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:73
+#: views/admin/questionnaire-tabs/q-questions.php:13
+msgid "Title"
+msgstr ""
+
+#: views/admin/ee-indicator.php:14 views/admin/ee-indicator.php:24
+#: views/admin/ee-indicator.php:34 views/admin/ee-indicator.php:44
+#: views/admin/ee-indicator.php:54 views/admin/ee-indicator.php:64
+msgid "To"
+msgstr ""
+
+#. Name of the plugin
+msgid "Trainee Base"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:232
+msgid "Update Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:110
+msgid "Update Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:56
+msgid "Update Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:73
+msgid "Update Item"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:179
+msgid "Update Questionnaire"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:121
+msgid "Uploaded to this Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:67
+msgid "Uploaded to this company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:190
+#: include/cpt/class-lctrainee-cpt.php:243
+msgid "Uploaded to this questionnaire"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:65
+#: include/cpt/class-lctrainee-cpt.php:119
+#: include/cpt/class-lctrainee-cpt.php:188
+#: include/cpt/class-lctrainee-cpt.php:241
+msgid "Use as featured image"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:85
+#: api/profile/class-lctrainee-auth.php:89
+msgid "User already is registered. Please check your registration mail."
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:106
+msgid "User Change Password Form"
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:107
+msgid "User Energy Profile"
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:102
+msgid "User Login Form"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:152
+msgid "User not found."
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:104
+msgid "User Password Recovery Form"
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:105
+msgid "User Password Reset Form"
+msgstr ""
+
+#: include/shortcodes/class-lctrainee-shortcodes.php:103
+msgid "User Register Form"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:233
+msgid "View Building"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:234
+msgid "View Buildings"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:111
+msgid "View Cause/Solution"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:112
+msgid "View Causes/Solutions"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:80
+#: views/shortcodes/questionnaire/questionnaire-wizard.php:160
+msgid "View certificate"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:58
+msgid "View Companies"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:57
+msgid "View Company"
+msgstr ""
+
+#: include/cpt/class-lctrainee-taxonomies.php:74
+msgid "View Item"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:180
+msgid "View Questionnaire"
+msgstr ""
+
+#: include/cpt/class-lctrainee-cpt.php:181
+msgid "View Questionnaires"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:20
+#: views/shortcodes/energy-profile/basic-profile.php:102
+#: views/shortcodes/energy-profile/certified-profile.php:32
+#: views/shortcodes/energy-profile/certified-profile.php:63
+msgid "Wasting more money"
+msgstr ""
+
+#: include/cpt/meta-boxes/class-lctrainee-company-metaboxes.php:60
+msgid "Website"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:37
+#: views/shortcodes/energy-profile/basic-profile.php:113
+#: views/shortcodes/questionnaire/partials/maps.php:50
+msgid "Year of construction"
+msgstr ""
+
+#: include/utils/class-lctrainee-string-resources.php:68
+#: views/admin/questionnaire-tabs/q-questions.php:41
+msgid "Yes"
+msgstr ""
+
+#: api/profile/class-lctrainee-profile-actions.php:80
+#: api/profile/class-lctrainee-profile-actions.php:133
+#: api/profile/class-lctrainee-profile-actions.php:133
+msgid "You are not logged in!"
+msgstr ""
+
+#: views/shortcodes/energy-profile/basic-profile.php:5
+#: views/shortcodes/energy-profile/certified-profile.php:5
+msgid ""
+"You are off to a good start! There are still ways to save even more. We have "
+"identified energy companies to help you save. Review the recommendations, "
+"find what is right for your home and get started today."
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:50
+msgid ""
+"Your account is not activated please check your activation mail and click "
+"the activation link."
+msgstr ""
+
+#: views/shortcodes/auth/register.php:28
+msgid "Your Email"
+msgstr ""
+
+#: views/shortcodes/auth/login.php:5
+msgid "Your email"
+msgstr ""
+
+#: views/shortcodes/auth/register.php:17
+msgid "Your Last Name"
+msgstr ""
+
+#: views/shortcodes/auth/register.php:10
+msgid "Your name"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:224
+msgid "Your old password did not match!"
+msgstr ""
+
+#: api/profile/class-lctrainee-auth.php:164
+msgid "Your reset password link is"
+msgstr ""
